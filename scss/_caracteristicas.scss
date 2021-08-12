@@ -1,0 +1,25 @@
+$ubicacion:flex;
+$contendor: row;
+$contenedoris: grid;
+
+
+
+
+.contenedor--informacion{
+	display: $contenedoris;
+}
+
+.principal{
+	display:$ubicacion;
+}
+
+.formularioDeContacto{
+	display: $contenedoris;
+	justify-content: space-around
+}
+
+#grid--aplicando{
+	display:$contenedoris;
+}
+
+
